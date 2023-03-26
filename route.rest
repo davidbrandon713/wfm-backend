@@ -1,0 +1,4 @@
+GET https://api.warframe.market/v1/items/vectis_prime_set
+
+###
+GET http://localhost:3002/vectis_prime_set/orders/sell
