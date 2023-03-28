@@ -1,4 +1,4 @@
-GET https://api.warframe.market/v1/items/vectis_prime_set
+GET https://api.warframe.market/v1/items/saryn_prime_neuroptics
 
 ###
-GET http://localhost:3002/vectis_prime_set/orders/sell
+GET http://localhost:3002/saryn_prime_set/orders
