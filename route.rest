@@ -1,4 +1,12 @@
-GET https://api.warframe.market/v1/items/saryn_prime_neuroptics
+GET https://api.warframe.market/v1/items/nekros_prime_set/orders?include=item
+Content-Type: application/json
+###
+
+GET https://api.warframe.market/v1/profile/TheKappaChrist/orders
+Content-Type: application/json
+
+
+
 
 ###
-GET http://localhost:3002/saryn_prime_set/orders
+GET http://localhost:8081/saryn_prime_set/orders
